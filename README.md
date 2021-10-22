@@ -33,6 +33,11 @@ Forked from [https://github.com/lukesmithxyz/kjv.git](https://github.com/lukesmi
               All verses in a book that match a pattern
           <Book>:<Chapter>/<Search>
               All verses in a chapter of a book that match a pattern
+## Esther and Daniel
+
+I include the traditional and canonical forms of both books. Daniel includes Susanna as 13 and Bel as 14. The prayer of the three youths is in the middle 3.
+
+Esther is different enough in Greek and Hebrew versions that I have included both. Access Esther Greek as "esth," "Esther," or "esthg." Access the Hebrew version as "esthh".
 
 ## Build
 
